@@ -21,6 +21,10 @@ h1 {
   display: none;
 }
 
+.js-form {
+  display: none;
+}
+
 .showing {
   display: block;
 }

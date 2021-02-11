@@ -1,6 +1,7 @@
 const clockContainer = document.querySelector(".js-clock");
 const clockTitle = clockContainer.querySelector("h1");
 
+// 이런 함수가 있다. 알려주는거야.
 function getTime() {
   const date = new Date();
   const minutes = date.getMinutes();
