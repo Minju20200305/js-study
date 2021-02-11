@@ -3,13 +3,16 @@ body {
   display: -moz-box;
   color: black;
 }
+
 .btn {
   cursor: pointer;
 }
+
 h1 {
   color: black;
   transition: color 0.5s ease-in-out;
 }
+
 .clicked {
   color: gray;
 }
